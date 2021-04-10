@@ -1,0 +1,2 @@
+# it-fundementals
+for exercise
